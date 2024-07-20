@@ -12,7 +12,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Thayumii/Thayumii/output/snake.svg" alt="Snake animation" />
-
-###
